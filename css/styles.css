@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Libre Franklin', sans-serif;  
+}
+
+.op{
+    position: absolute;
+    left: 45%;
+    top: 2%;
+}
+
+.cd{
+    position: absolute;
+    left: 33%;
+    top: 12%;
+    font-size: 2.5rem;
+    font-weight:lighter;
+}
+.cd span{
+    font-weight: 700;
+}
+.mn{
+    position: absolute;
+    left: 42%;
+    top: 22%;
+}
+.xy{
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
+#abc{
+    border-radius: 4rem;
+    height: 50px;
+    width: 350px;
+}
+.xy button{
+    border-radius: 4rem;
+    height: 50px;
+    width:150px ;
+    color: white;
+    background-color: hsl(223, 87%, 63%) ;
+    
+}
+.img{
+    position: absolute;
+    left: 28%;
+    top: 47%;
+}
+.mnc{
+    position: absolute;
+    top: 97%;
+    left: 38%;
+}
+
+
